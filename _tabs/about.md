@@ -9,7 +9,7 @@ order: 4
  *>*<u>"Acervo pessoal de estudo sobre o mundo de tecnologia da informação."</u>
 
  A ideia do projeto vem de criar um portal sobre o mundo da tecnologia e hacking, com fins acadêmicos, assim eu estudo ao passo que desenvolvendo meus próprios materiais.
- Por compartilhar-los, acabo permitindo que qualquer entusiasta possa ter crescer junto. 
+ Por compartilha-los, acabo permitindo que qualquer entusiasta possa crescer junto. 
  Em outras palavras, este portal foi feito inteiramente como uma fonte de estudo, contribuíndo para o meu aprendizado e para os demais interessados em aprender e revisar. 
  Perfeito para quem busca materiais voltados para a área de computação/tecnologia - aos que buscam materiais de tecnologia voltados ao mundo hacking, o projeto wayofsec é o ideal por ter o foco.
  O foco deste projeto R2T é voltado na área de computação em geral, isso pois meu foco profissional e pessoal é a área de cibersegurança. 
